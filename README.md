@@ -11,4 +11,4 @@
 - 오픈소프트웨어
 - 오픈소프트위어실습
 
-![sea](./SW images/sea.jpg)
+![sea](./SW images/sea-5213746_1920.jpg)
